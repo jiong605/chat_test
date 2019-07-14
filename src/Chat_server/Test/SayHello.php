@@ -5,6 +5,7 @@
  * Date: 2019/7/14
  * Time: 13:11
  */
+namespace Chat_server\Test;
 
 class SayHello
 {
