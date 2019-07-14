@@ -1,0 +1,19 @@
+{
+    "name": "superman/hello",
+    "description": "this is test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "superman",
+            "email": "562218979@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Superman\\Hello\\": "src/"
+        }
+    }
+}
